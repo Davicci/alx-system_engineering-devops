@@ -1,0 +1,4 @@
+#!/bin/bash
+read filename
+vim $filename
+chmod u+x $filename
